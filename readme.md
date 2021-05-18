@@ -5,7 +5,7 @@
 <!--
 **Tarun280896/Tarun280896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...\
+<!--
 - * I’m currently working as a **Data Analyst** **@Shopalyst**.
 * My job role includes building NLP and machine learning models:
     - here are some : Language models, topic modelling, text classification, regression.etc
