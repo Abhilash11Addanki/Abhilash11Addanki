@@ -4,5 +4,6 @@
 
 -   I’m currently working as a Data Scientist in Yash Technologies
 -   I'm a Google Certified TensorFlow Developer
+-   I'm a RASA Certified Developer
 
 <!-- <a> <img align="centre" width="530" height="400" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32558846"></a> -->
